@@ -1,0 +1,5 @@
+FOREST RUNNER - GOLDEN GROVE (Unity)
+1. Unzip this folder. Open Unity Hub > Add > "Add project from disk" > pick the ForestRunnerBambooGrove folder.
+2. Open it with Unity 2022.3 (any 2022.3.x). Wait for the first import to finish.
+3. Press Play. On the main menu press T to switch between 5 themes (Golden Hour, Frozen Winter, Sakura Spring, Neon Night, Ember Canyon).
+Controls: A/D or Left/Right = lane, Space/Up = jump, S/Down = slide, Esc = pause.
